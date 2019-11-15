@@ -3,7 +3,7 @@ package org.iuea.oop.thegiant;
         (" LAWAL BILAL  18/1192/BSSE-S"
                  "ADAMU ABDULRAHMAN  18/446/BSSE-S"
                  " IBRAHIM MATO DANGADA  "19/928/BIT-S"
-                 " SADIQ NASIDI SALISU    19/789/BSCS-S"*/
+                 " salisu sani SALISU    19/789/BSCS-S"*/
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
