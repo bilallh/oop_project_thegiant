@@ -2,7 +2,7 @@ package org.iuea.oop.thegiant;
 /* GROUP MEMBERS(" LAWAL BILAL  18/1192/BSSE-S"
                  "ADAMU ABDULRAHMAN  18/446/BSSE-S"
                  " IBRAHIM MATO DANGADA  "19/928/BIT-S"
-                 " SADIQ NASIDI SALISU    19/789/BSCS-S"*/
+                 " salisu sani salisu   19/816/bsse-s"*/
 import java.awt.BorderLayout;
 import java.awt.EventQueue;
 
