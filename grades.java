@@ -7,7 +7,7 @@ package org.iuea.oop.thegiant;
 
 /**
  *
- * @author styve
+ * @The_giant
  */
 public class grades {
     String courseunit;
