@@ -128,7 +128,7 @@ public class mainView extends JFrame {
 		lname.setColumns(10);
 		
 		JLabel lblLastName = new JLabel("Last Name");
-		lblLastName.setForeground(Color.black);
+		lblLastName.setForeground(Color.grey);
 		lblLastName.setBackground(Color.WHITE);
 		lblLastName.setBounds(23, 93, 75, 14);
 		panel_4.add(lblLastName);
@@ -143,10 +143,10 @@ public class mainView extends JFrame {
 		sex.setBounds(168, 137, 237, 20);
 		panel_4.add(sex);
 		
-		JLabel lblRegistraton = new JLabel("Registraton");
-		lblRegistraton.setForeground(Color.BLACK);
+		JLabel lblRegistraton = new JLabel("Registration");
+		lblRegistraton.setForeground(Color.GREY);
 		lblRegistraton.setBounds(23, 229, 86, 14);
-		panel_4.add(lblRegistraton);
+		panel_4.add(lblRegistration);
 		
 		registration = new JTextField();
 		registration.setBounds(168, 226, 237, 20);
