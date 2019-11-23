@@ -20,11 +20,11 @@ public class courseunit {
     public static void main(String[]args){
         courseunit c1=new courseunit();
         c1.name="oop";
-        c1.creditunit="";
+        c1.creditunit="4";
         c1.description="";
         c1.content="";
-        c1.coursecode="";
-        c1.year="";
+        c1.coursecode="BIT 2107";
+        c1.year="2";
     }
     
     
